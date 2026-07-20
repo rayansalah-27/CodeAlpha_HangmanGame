@@ -1,0 +1,6 @@
+# Hangman Game - CodeAlpha Internship Task 1
+# This project uses only built-in Python libraries.
+# No external packages are required.
+
+# Python version: 3.7+
+# Tkinter is included with Python by default.
